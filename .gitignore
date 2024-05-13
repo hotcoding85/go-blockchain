@@ -1,0 +1,7 @@
+/tmp
+/logs
+/_
+/cmd/utils/demon/demon.exe
+/.env
+/examples/rust/target
+/examples/python/venv
